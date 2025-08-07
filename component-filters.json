@@ -16,13 +16,20 @@
       "cards",
       "columns",
       "fragment",
-      "quote"
+      "quote",
+      "carousels"
     ]
   },
   {
     "id": "cards",
     "components": [
       "card"
+    ]
+  },
+  {
+    "id": "carousels",
+    "components": [
+      "carousel"
     ]
   },
   {
