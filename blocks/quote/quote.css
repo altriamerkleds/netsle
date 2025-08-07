@@ -5,12 +5,15 @@
     flex-direction: column;
     margin: 1rem 0;
 }
+
 .block.quote.bg-red {
     background-color: #f10303;
 }
+
 .block.quote.bg-green {
     background-color: #03f13a;
 }
+
 .block.quote.bg-blue {
     background-color: #2303f1;
 }
@@ -36,7 +39,9 @@
     height: 5px;
     width: 30px;
     background-color: darkgray;
-}.block.quote {
+}
+
+.block.quote {
     background-color: #ccc;
     padding: 0 0 24px;
     display: flex;
