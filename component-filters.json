@@ -17,7 +17,7 @@
       "columns",
       "fragment",
       "quote",
-      "carousels"
+      "carousel"
     ]
   },
   {
@@ -27,9 +27,9 @@
     ]
   },
   {
-    "id": "carousels",
+    "id": "carousel",
     "components": [
-      "carousel"
+      "carouselitem"
     ]
   },
   {
